@@ -3,7 +3,7 @@ layout: page
 title: "Roadmap"
 subheadline: "ToDo-List &amp; Ideas"
 teaser: "Here are some ideas and features I want to implement in the future."
-permalink: "/roadmap/"
+permalink: "/roadmap/pllug_roadmaps/"
 ---
 
 ## Ideas and possible new features
