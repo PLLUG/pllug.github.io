@@ -9,9 +9,29 @@
 - title: "Roadmaps"
   url: "/pllug-roadmaps/"
   side: left
+  dropdown:
+  - title: "Qt"
+    url: "/qt-roadmap/"
+    side: left
+
+  - title: "Web"
+    url: '/web-roadmap/'
+    side: left
+
+  - title: "IOS"
+    url: '/ios-roadmap/'
+    side: left
+
+  - title: "Android"
+    url: '/android-roadmap/'
+    side: left
+
+  - title: "C#"
+    url: '/csharp-roadmap/'
+    side: left
 
 - title: "Projects"
-  url: "Projects"
+  url: "/pllug-projects/"
   side: left
 
 - title: Blog
