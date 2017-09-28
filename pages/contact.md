@@ -1,12 +1,12 @@
 ---
 layout: page
-title: "Contact"
-meta_title: "Contact and use our contact form"
-subheadline: "Wufoo-powered contact forms"
-teaser: "Get in touch with me? Use the contact form."
+title: "Контакти"
 permalink: "/contact/"
 ---
-If you need a fabulous contact form for your website, I suggest you use [Wufoo][1]. You can use three forms for free, you get no spam and if you get more than 100 entries you have to pay.
 
+Переглянути наступні події та зареєструватися на участь можна на сторінці Eventbright: [http://pllug.eventbrite.co.uk](http://pllug.eventbrite.co.uk)
 
- [1]: http://www.wufoo.com/
+Слідкуйте за нашою сторінкою Facebook: [https://www.facebook.com/PLLUGcommunity/](https://www.facebook.com/PLLUGcommunity/)
+
+Якщо ви хочете взяти участь у PLLUG Community - заповніть коротку форму: [https://goo.gl/forms/jtGyt1fZtOo8WMo92](https://goo.gl/forms/jtGyt1fZtOo8WMo92) 
+або зв'яжіться з нами поштою: [info@pllug.org,ua](mailto:info@pllug.org.ua)
