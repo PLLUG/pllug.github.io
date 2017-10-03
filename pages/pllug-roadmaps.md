@@ -1,11 +1,11 @@
 ---
 layout: page
-title: "Що таке PLLUG Roadmaps?"
+title: "PLLUG Roadmaps"
 teaser: ""
 permalink: "/pllug-roadmaps/"
 ---
 
-## Розклад зібрань PLLUG Roadmaps
+## Розклад зібрань
 
 | Напрямок | Місце | Час | Початок Зібрань | 
 | -- | -- | -- | -- |
