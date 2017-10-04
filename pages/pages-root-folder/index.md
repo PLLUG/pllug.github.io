@@ -7,7 +7,7 @@
 layout: frontpage
 header:
   image_fullwidth: logo.png
-#widget1:
+widget1:
   title: "Розклад зібрань PLLUG Roadmaps"
   url: '/pllug-roadmaps/'
 #  image: widget-1-302x182.jpg
