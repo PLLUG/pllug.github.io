@@ -13,8 +13,15 @@ permalink: "/qt-roadmap/"
 
 **Внести свої пропозиції стосовно зібрань напряму, запропонувати тему зібрання чи ідею проекту, спонукати лекторів та мейнейнерів напряму до дій можна створивши тікет до нашого репозиторію на GitHub: [Створити тікет](https://github.com/PLLUG/CPPQT-Roadmap-2017-2/issues)**
 
-**[Qt Book](https://www.dropbox.com/s/83gz2yleyt5pfge/qt_final.pdf?dl=0)**
+**Підручник з Qt: [Qt Book](https://www.dropbox.com/s/83gz2yleyt5pfge/qt_final.pdf?dl=0)**
 
+## Розклад найближчих занять
+
+|  Meeting Date | Topic | Readings | Assigment |
+|:----|:----|:----|:----|
+| Dec 14 | Консультації |  |  |
+| Dec 21 | Консультації |  |  |
+| Dec 28 | NotesManager, Individual assignment | https://pllug.gitbooks.io/the-pllug-c-qt-roadmap-book/content/book/development_basics/working_with_git.html | https://www.dropbox.com/s/k38b574gqhzdcej/Qt_Task.pdf?dl=0 |
 ## Як зареєструватися на участь?
 Перед реєстрацією, прочитай уважно відповіді на часті питання, особливо [Що потрібно буде робити?](faq) та [Як буде проходити навчання?](faq)
 
