@@ -22,6 +22,10 @@ permalink: "/qt-roadmap/"
 | Dec 14 | Консультації |  |  |
 | Dec 21 | Консультації |  |  |
 | Dec 28 | NotesManager, Individual assignment | https://pllug.gitbooks.io/the-pllug-c-qt-roadmap-book/content/book/development_basics/working_with_git.html | https://www.dropbox.com/s/k38b574gqhzdcej/Qt_Task.pdf?dl=0 |
+| Jan 11 | Qt/Qml |  |  |
+| Jan 18 | Qt/Qml |  |  |
+| Jan 25 | Qt/Qml |  |  |
+
 ## Як зареєструватися на участь?
 Перед реєстрацією, прочитай уважно відповіді на часті питання, особливо [Що потрібно буде робити?](faq) та [Як буде проходити навчання?](faq)
 
