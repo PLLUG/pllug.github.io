@@ -4,8 +4,6 @@ title: "Контакти"
 permalink: "/contact/"
 ---
 
-Переглянути наступні події та зареєструватися на участь можна на сторінці Eventbright: [http://pllug.eventbrite.co.uk](http://pllug.eventbrite.co.uk)
-
 Слідкуйте за нашою сторінкою Facebook: [https://www.facebook.com/PLLUGcommunity/](https://www.facebook.com/PLLUGcommunity/)
 
 Якщо ви хочете взяти участь у PLLUG Community - заповніть коротку форму: [https://goo.gl/forms/jtGyt1fZtOo8WMo92](https://goo.gl/forms/jtGyt1fZtOo8WMo92) 
