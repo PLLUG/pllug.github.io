@@ -4,3 +4,5 @@ layout: page
 sitemap: false
 permalink: "/android-roadmap/"
 ---
+
+**TBD** - оновлена інформація про зібрання у першому семестрі 2018 року буде доступна незабаром.
