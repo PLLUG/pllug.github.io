@@ -27,9 +27,9 @@ permalink: "/qt-roadmap/"
 
 |  Meeting Date | Topic | Readings | Assigment |
 |:----|:----|:----|:----|
-| Mar 22 | Data Types, Functions. Practice: Writing Text Maze Game. | TBD | TBD |
-| Mar 29 | Classes. ADT. Practice: TBD.  | TBD | TBD |
-| Apr 5 | Pointers and Memory: TBD. | TBD | TBD |
+| Mar 29 | Data Types, Functions. Practice: Writing Text Maze Game. | TBD | TBD |
+| Apr 5 | Classes. ADT. Practice: TBD.  | TBD | TBD |
+| Apr 12 | Pointers and Memory: TBD. | TBD | TBD |
 
 
 ## Матеріали та контакти

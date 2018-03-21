@@ -30,6 +30,10 @@
     url: '/csharp-roadmap/'
     side: left
 
+  - title: "Hardware"
+    url: '/hard-pllug/'
+    side: left
+
 - title: "Projects"
   url: "/pllug-projects/"
   side: left
