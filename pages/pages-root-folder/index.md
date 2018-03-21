@@ -8,7 +8,7 @@ layout: frontpage
 header:
   image_fullwidth: logo.png
 widget1:
-  title: "Розклад зібрань PLLUG Roadmaps"
+  title: "Розклад зібрань PLLUG Roadmaps сезону 2018-1"
   url: '/pllug-roadmaps/'
 #  image: widget-1-302x182.jpg
   text: 'Що таке PLLUG Roadmaps та розклад зібрань цього сезону.'
