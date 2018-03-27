@@ -40,7 +40,7 @@ permalink: "/ios-roadmap/"
 
 ## Матеріали та контакти
 всі обговорення у Телеграм
-https://t.me/pllug_ios
+[https://t.me/joinchat/FdlWhBKO-Ux5V5j4nsX2Hg](https://t.me/joinchat/FdlWhBKO-Ux5V5j4nsX2Hg)
 
 Матеріали будуть надані на пешому занятті.
 
