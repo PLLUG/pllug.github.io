@@ -7,11 +7,21 @@
 layout: frontpage
 header:
   image_fullwidth: logo.png
-widget1:
-  title: "Розклад зібрань PLLUG Roadmaps сезону 2018-1"
+ widget1:
+  title: "Чому PLLUG Community?"
+  url: '/info/'
+#  image: widget-1-302x182.jpg
+  text: 'Що таке PLLUG Community та відповіді на часті запитання.'
+widget2:
+  title: "Розклад зібрань PLLUG Roadmaps сезону 2018-2"
   url: '/pllug-roadmaps/'
 #  image: widget-1-302x182.jpg
   text: 'Що таке PLLUG Roadmaps та розклад зібрань цього сезону.'
+widget3:
+  title: "Перше зібрання PLLUG Roadmaps сезону 2018-2"
+  url: '/pllug-roadmaps-intro/'
+#  image: widget-1-302x182.jpg
+  text: 'Анонс першого забрання 2го сезону 2018го року.'
 #widget2:
 #  title: "Why use this theme?"
 #  url: 'http://phlow.github.io/feeling-responsive/info/'
