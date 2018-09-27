@@ -7,7 +7,7 @@ permalink: "/pllug-roadmaps-intro/"
 
 ## PLLUG Roadmap 2018/2
 
-**PLLUG Community розпочинає PLLUG Roadmap 2018/2! Безкоштовні курси з програмування**
+**PLLUG Community розпочинає PLLUG Roadmap 2018/2! Безкоштовні курси з програмування**<br>
 PLLUG Roadmaps стартують по наступним напрямкам:
 - C++
 - C# / .Net
@@ -18,7 +18,8 @@ PLLUG Roadmaps стартують по наступним напрямкам:
 Приходь на вступну лекцію, де можна дізнатись детальніше про курси, напрямки, розклад, та випити каву з печеньками ☺️
 Чекаємо тебе 2 жовтня о 18:00 у конференц-залі компанії Vakoms
 (вул. Пасічна 93б, -1 поверх)
-Facebook подія: [https://www.facebook.com/events/402676333601372/]
+Офіційна сторінка PLLUG community у <a href="https://www.facebook.com/PLLUGcommunity/">Facebook</a>.<br>
+Перше заняття 2018/2 у <a href= "https://www.facebook.com/events/402676333601372/">Facebook</a>
  
 ## Що таке PLLUG Roadmaps?
 
