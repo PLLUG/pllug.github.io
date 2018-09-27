@@ -19,20 +19,20 @@ permalink: "/ios-roadmap/"
 Одже не гайте свій час, і починайти вивчати програмування вже зараз - вивчення мови Swift у майбутньому дасть вам можливість розробляти не тільки додатки не тільки під iOS, але й під будь-яку іншу платформу Apple  - macOS,  tvOS,  watchOS
 
 ## Розклад найближчих занять
-
+(Напрям стартує після 2-го жовтня. Слідкуйте за деталями у офіційній <a href="https://www.facebook.com/PLLUGcommunity/">Facebook</a> групі)<br>
 Серед тем, які ми будемо розглядати:
-1. Basic, Xcode —> Idea of app	04.04.2018
-2. Classes, Operators, Swift general 11.04.2018 	
-3. UI Basics + Navigation	18.04.2018
-4. Protocols / Delegates + UITableView + UITabBarController	25.04.2018
-5. MVC/ General info + Start implementing app	02.05.2018
-6. Detailed class + models for app	09.05.2018
-7. Memory management	16.05.2018
-8. Observers. Extensions. Closures	23.05.2018
-9. Networking	30.05.2018
-10. CoreData	06.06.2018
-11. Animations + Gestures	13.06.2018
-12. CocoaPods	20.06.2018
+1. Basic, Xcode —> Idea of app
+2. Classes, Operators, Swift general
+3. UI Basics + Navigation
+4. Protocols / Delegates + UITableView + UITabBarController
+5. MVC/ General info + Start implementing app
+6. Detailed class + models for app
+7. Memory management
+8. Observers. Extensions. Closures
+9. Networking
+10. CoreData
+11. Animations + Gestures
+12. CocoaPods
 
 **Ми збираємося кожної середи о 19:00, за адресою Пасічна 93б (сіра будівля навпроти заправки WOG), по сходах вниз та направо - конференц зал у підвальному приміщенні.**    
 
