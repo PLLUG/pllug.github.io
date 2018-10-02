@@ -40,7 +40,7 @@ permalink: "/ios-roadmap/"
 
 ## Матеріали та контакти
 Всі обговорення та питання у каналі Телеграм
-[https://t.me/joinchat/FdlWhBKO-Ux5V5j4nsX2Hg](https://t.me/joinchat/FdlWhBKO-Ux5V5j4nsX2Hg)
+[https://t.me/pllug_community_ios](https://t.me/pllug_community_ios)
 
 Матеріали будуть надані на першому занятті.
 
