@@ -5,7 +5,7 @@ teaser: ""
 permalink: "/pllug-roadmaps/"
 ---  
 
-**За наступними зібраннями PLLUG Roadmaps слідкуйте на нашій сторінці Eventbright: http://pllug.eventbrite.com/, а також на сторінці Facebook, де ми публікуємо усі новини: https://www.facebook.com/PLLUGcommunity**
+**За наступними зібраннями PLLUG Roadmaps слідкуйте на нашій сторінці Eventbright: [http://pllug.eventbrite.com/](http://pllug.eventbrite.com/), а також на сторінці Facebook, де ми публікуємо усі новини: [https://www.facebook.com/PLLUGcommunity](https://www.facebook.com/PLLUGcommunity)**
 
 ## Що таке PLLUG Roadmaps?
 
