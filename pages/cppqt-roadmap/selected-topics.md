@@ -1,5 +1,5 @@
 ---
-title: "Підготовка до роботи. Встановлення суперконсолі. Робота з системою контролю версій. "
+title: "С++, написання простих програм: обрані теми"
 layout: page
 sitemap: true
 permalink: "/cppqt-roadmap/selected-topics"
