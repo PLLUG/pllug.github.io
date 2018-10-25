@@ -29,7 +29,7 @@ permalink: "/qt-roadmap/"
 |  Meeting Date | Topic |
 |:----|:----|
 | Oct 2 | Перше зібрання PLLUG |
-| Oct 4 | [Підготовка до роботи. Встановлення суперконсолі. Робота з системою контролю версій.](http://pllug.org.ua/pages/cppqt-roadmap/lesson_intro/) |
+| Oct 4 | [Підготовка до роботи. Встановлення суперконсолі. Робота з системою контролю версій.](http://pllug.org.ua/cppqt-roadmap/intro) |
 | Oct 18 |  |
 | Oct 25 |  |
 | Nov 1 |  |
