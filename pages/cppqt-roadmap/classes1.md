@@ -1,5 +1,5 @@
 ---
-title: Об'єкти та класи. ООП. Частина 1. "
+title: Об'єкти та класи. ООП. Частина 1.
 layout: page
 sitemap: true
 permalink: "/cppqt-roadmap/classes1"
