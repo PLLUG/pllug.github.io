@@ -1,5 +1,5 @@
 ---
-title: Вказівники та пам'ять. "
+title: Вказівники та пам'ять.
 layout: page
 sitemap: true
 permalink: "/cppqt-roadmap/memory"
