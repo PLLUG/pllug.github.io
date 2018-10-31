@@ -2,7 +2,7 @@
 title: Об'єкти та класи. ООП. Частина 2.
 layout: page
 sitemap: true
-permalink: "/cppqt-roadmap/memory"
+permalink: "/cppqt-roadmap/classes2"
 ---
 
 ## Теми
