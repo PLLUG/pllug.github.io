@@ -32,9 +32,9 @@ permalink: "/qt-roadmap/"
 | Oct 4 | [Підготовка до роботи. Встановлення суперконсолі. Робота з системою контролю версій.](http://pllug.org.ua/cppqt-roadmap/intro) |
 | Oct 18 | [С++, написання простих програм: обрані теми](http://pllug.org.ua/cppqt-roadmap/selected-topics) |
 | Oct 25 | Вільне заняття. Практика. |
-| Nov 1 | Об'єкти та класи. ООП. Частина 1. |
-| Nov 8 | Вказівники та пам'ять. |
-| Nov 15 | Об'єкти та класи. ООП. Частина 2. |
+| Nov 1 | [Об'єкти та класи. ООП. Частина 1.](http://pllug.org.ua/cppqt-roadmap/classes1) |
+| Nov 8 | [Вказівники та пам'ять.](http://pllug.org.ua/cppqt-roadmap/memory) |
+| Nov 15 | [Об'єкти та класи. ООП. Частина 2.](http://pllug.org.ua/cppqt-roadmap/classes2) |
 | Nov 22 | Вільне заняття. Практика. |
 | Nov 29 |  |
 | Dec 6 |  |
