@@ -8,10 +8,10 @@ layout: frontpage
 header:
   image_fullwidth: logo.png
 widget1:
-  title: "Перше зібрання PLLUG Roadmaps сезону 2018-2"
+  title: "Перше зібрання PLLUG Roadmaps у 2019 році"
   url: '/pllug-roadmaps-intro/'
 #  image: widget-1-302x182.jpg
-  text: 'Анонс першого забрання 2го сезону 2018го року.'
+  text: 'Анонс першого зібрання PLLUG Community.'
 #widget2:
 #  title: "Why use this theme?"
 #  url: 'http://phlow.github.io/feeling-responsive/info/'
