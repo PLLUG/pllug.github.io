@@ -4,12 +4,6 @@ layout: page
 sitemap: false
 permalink: "/csharp-roadmap/"
 ---
----
-title: "C#/.NET Roadmap"
-layout: page
-sitemap: false
-permalink: "/csharp-roadmap/"
----
 
 ## Як взяти участь?
 Кількість місць дуже обмежена, тому набирається невелика група. Відбір у групу буде за результатами виконання тестового завдання.
