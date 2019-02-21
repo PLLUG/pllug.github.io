@@ -10,6 +10,10 @@
   url: "/pllug-roadmaps/"
   side: left
   dropdown:
+  - title: "QA"
+    url: "/qa-roadmap/"
+    side: left
+    
   - title: "C++ / Qt"
     url: "/qt-roadmap/"
     side: left
