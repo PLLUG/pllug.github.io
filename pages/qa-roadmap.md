@@ -18,6 +18,7 @@ permalink: "/qa-roadmap/"
 Cлідкуйте за реєстрацію на заняття та можливими змінами на сторінці *Eventbright*: [http://pllug.eventbrite.com/](http://pllug.eventbrite.com/), а також на сторінці Facebook, де ми публікуємо усі новини: [https://www.facebook.com/PLLUGcommunity](http://pllug.eventbrite.com/)** 
 
 ## Список тем
+
 |  Дата | Тематика зібрання |
 |:----|:----|
 |26.02|Перше зібрання. Знайомство. Introduction to Testing. Project Roles. SDLC |
