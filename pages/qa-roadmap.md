@@ -35,26 +35,29 @@ Cлідкуйте за реєстрацію на заняття та можли�
 |14.05|Graduation. My first job as QA Engineer. How to start?|
 
 ## Матеріали 
-Р. Савин - Тестирование Дот Ком
-Lisa Crispin, Janet Gregory Agile Testing: A Practical Guide for Testers and Agile Teams.
-[Software Testing Tutorial](https://www.guru99.com/software-testing.html)
-[ISTQB Downloads](https://www.istqb.org/downloads)
-[Foundation Level Syllabus](https://www.istqb.org/downloads/send/51-ctfl2018/208-ctfl-2018-syllabus.html)
-[Foundation Level Glossary](https://www.istqb.org/downloads/send/20-istqb-glossary/210-istqb-glossary-3-2-ga-release-notes-final.html)
-[Learn HTTP](https://www.tutorialspoint.com/http/index.htm)
-[Postman](https://learning.getpostman.com/docs/postman/api_documentation/intro_to_api_documentation/)
-[Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/)
-[SQL W3School](https://www.w3schools.com/sql/)
-[SQL Tutorials](https://www.guru99.com/sql.html)
 
+ * Р. Савин - Тестирование Дот Ком
+ * Lisa Crispin, Janet Gregory Agile Testing: A Practical Guide for Testers and Agile Teams.
+ * [Software Testing Tutorial](https://www.guru99.com/software-testing.html)
+ * [ISTQB Downloads](https://www.istqb.org/downloads)
+ * [Foundation Level Syllabus](https://www.istqb.org/downloads/send/51-ctfl2018/208-ctfl-2018-syllabus.html)
+ * [Foundation Level Glossary](https://www.istqb.org/downloads/send/20-istqb-glossary/210-istqb-glossary-3-2-ga-release-notes-final.html)
+ * [Learn HTTP](https://www.tutorialspoint.com/http/index.htm)
+ * [Postman](https://learning.getpostman.com/docs/postman/api_documentation/intro_to_api_documentation/)
+ * [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/)
+ * [SQL W3School](https://www.w3schools.com/sql/)
+ * [SQL Tutorials](https://www.guru99.com/sql.html)
 
 ## Часті Питання (ЧаП)
 
 ### Відповіді на загальні питання стосовно PLLUG Roadmaps дивіться тут: [**PLLUG Roadmaps**](http://pllug.org.ua/pllug-roadmaps/)
+
 ### Що я буду вміти після проходження PLLUG QA (Manual) Roadmap?
 Все в першу чергу залежить індивідуально від кожного (вчитися самостійно, виконувати домашні завдання та відвідувати заняття). Є багато ресурів он-лайн, які пропонують ще більше інформації. PLLUG QA це допомога ці знання структурувати, обговорити запитання, що цікавлять та відчути себе частиною команди.
+
 ###### Знання основних аспектів теорії тестування:
 SDLC, Requirements analysis. Test/Project documentation.Types of Testing. Functional/Non-functional. White/Gray/Black-box testing, Test design techniques. Bug. Bug report. Bug tracking systems.
+
 ###### Володіти базовими знаннями та практичними навичками:
 HTTP, API Testing (Postman), SQL, types of databases, web app testing (using Browser DevTools), mobile app testing (iOS/android).
 
@@ -70,10 +73,11 @@ HTTP, API Testing (Postman), SQL, types of databases, web app testing (using Bro
 Задіювати різні типи тестування та дизайн техніки не лише на веб чи мобільних додатках, а й на предметах побуту.
 *Друга частина* буде у форматі воркшопів. 
 
-
 ### Чи потрібно брати ноутбук?
 Оскільки перша частина буде переважно теоретичною, тому наявність ноутбука необов'язкова. Друга частина курсу передбачатиме формат воркшопів, тому звісно, що присутність ноутбуків та телефонів для тестування буде лише перевагою. Якщо ж у вас не має такої можливості, то зможете спостерігати за розшареним екраном викладача на проекторі. 
+
 ### Скільки часу триватиме навчання?
 PLLUG QA (Manual) Roadmap розрахований на **12** занять, тривалість приблизно **3** місяці, вівторок- **1** раз на тиждень. Заключне заняття відбудеться **14 травня**.
+
 ### Як довго триває одне зібрання?
 Одне зібрання триватиме **1.5** год, з 19:00-20:30.
