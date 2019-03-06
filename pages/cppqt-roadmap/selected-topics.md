@@ -7,7 +7,7 @@ permalink: "/cppqt-roadmap/selected-topics"
 
 ## Теми
  * Стиль програмування. Coding Standard.
- * Основні типи: string, vector, array
+ * Основні типи стандартної бібліотеки: string, vector, array
  * Константи та посилання. 
  * Ефективне оголошення змінних.
  * Конструюємо корисні функції.
