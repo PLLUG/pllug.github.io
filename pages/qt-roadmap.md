@@ -38,10 +38,10 @@ permalink: "/qt-roadmap/"
 
 |  Meeting Date | Topic |
 |:----|:----|
-| Feb 28 | [Data Abstraction in C++. FileServer project.](http://pllug.org.ua/cppqt-roadmap/classes1) |
-| Mar 7 | [Memory and Memory Management. FileServer project (continue)](http://pllug.org.ua/cppqt-roadmap/memory) |
-| Mar 7 | [C++11\14\17: Selected Topics. Developing simple game: ' aMaze' (continue)](http://pllug.org.ua/cppqt-roadmap/selected-topics/classes2) |
-| Mar 14 | Working with complex projects. Basic devlopment process. FileServer project. [Workshop] [repo]() |
+| Mar 21 | [Data Abstraction in C++. FileServer project.](http://pllug.org.ua/cppqt-roadmap/classes1) |
+| Mar 28 | [Memory and Memory Management. FileServer project (continue)](http://pllug.org.ua/cppqt-roadmap/memory) |
+| Apr 4 | [C++11\14\17: Selected Topics. Developing simple game: ' aMaze' (continue)](http://pllug.org.ua/cppqt-roadmap/selected-topics/classes2) |
+| Apr 11 | Working with complex projects. Basic devlopment process. FileServer project. [Workshop] [repo]() |
 
 ## Матеріали та контакти
 
