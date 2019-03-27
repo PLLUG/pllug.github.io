@@ -25,13 +25,23 @@ permalink: "/qt-roadmap/"
 
 **Ми збираємося кожного четверга. За локацією та часом зібрань слідкуйте на сторінці Eventbright: [http://pllug.eventbrite.com/](http://pllug.eventbrite.com/), а також на сторінці Facebook, де ми публікуємо усі новини: [https://www.facebook.com/PLLUGcommunity](http://pllug.eventbrite.com/)**    
 
+### MODULE 1: Selected topics of C++.
 
 |  Meeting Date | Topic |
 |:----|:----|
 | Feb 28 | [Intro to C++\Qt Roadmaps development tools and practices. C++ Basics. Developing simple game: 'aMaze'](http://pllug.org.ua/cppqt-roadmap/intro) |
 | Mar 7 | [C++11\14\17: Selected Topics. Developing simple game: ' aMaze' (continue)](http://pllug.org.ua/cppqt-roadmap/selected-topics) |
-| Mar 14 | Working with project that consist from multiple files. Developing simple game: 'aMaze' [Workshop] |
+| Mar 14 | Working with project that consist from multiple files. Developing simple game: 'aMaze' [Workshop] [repo] (https://github.com/PLLUG/CPPQT-2019-1-aMaze) |
 
+
+### MODULE 2: Abstract Data Types and Resource Management.
+
+|  Meeting Date | Topic |
+|:----|:----|classes2
+| Feb 28 | [Data Abstraction in C++. FileServer project.](http://pllug.org.ua/cppqt-roadmap/classes1) |
+| Mar 7 | [Memory and Memory Management. FileServer project (continue)](http://pllug.org.ua/cppqt-roadmap/memory) |
+| Mar 7 | [C++11\14\17: Selected Topics. Developing simple game: ' aMaze' (continue)](http://pllug.org.ua/cppqt-roadmap/selected-topics/classes2) |
+| Mar 14 | Working with complex projects. Basic devlopment process. FileServer project. [Workshop] [repo]() |
 
 ## Матеріали та контакти
 
