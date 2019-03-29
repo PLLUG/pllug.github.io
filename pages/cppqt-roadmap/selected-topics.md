@@ -40,5 +40,4 @@ permalink: "/cppqt-roadmap/selected-topics"
  * Перегляд домашніх менторами на напрямку
  * Участь у нашому внутрішньому чаті для обговорення завдань.
  
- Форма для зголошення до участі:
- [https://docs.google.com/forms/d/e/1FAIpQLSe_WMHa7LQIdus0e77IqK6o9KJensCDRtGPFhwKz497P56XNQ/viewform](https://docs.google.com/forms/d/e/1FAIpQLSe_WMHa7LQIdus0e77IqK6o9KJensCDRtGPFhwKz497P56XNQ/viewform)
+ Форма для зголошення до участі: [https://forms.gle/BJtBPXjHYk8AzC1s7](https://forms.gle/BJtBPXjHYk8AzC1s7)
