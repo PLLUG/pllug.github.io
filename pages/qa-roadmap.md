@@ -30,9 +30,9 @@ Cлідкуйте за реєстрацію на заняття та можли�
 |9.04|Project work (working in groups). |
 |16.04|API testing (Postman). HTTP Methods. HTTP Status Codes. |
 |23.04|WEB application testing (Browser Developer Tools). |
-|30.04|Database. Relational/Non-relational (MySQL/MongoDB). SQL Basics.|
-|7.05|Mobile application testing (Android/iOS).|
-|14.05|Graduation. My first job as QA Engineer. How to start?|
+|7.05|Database. Relational/Non-relational (MySQL/MongoDB). SQL Basics.|
+|14.05|Mobile application testing (Android/iOS).|
+|21.05|Graduation. My first job as QA Engineer. How to start?|
 
 ## Матеріали 
 
