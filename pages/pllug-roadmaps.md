@@ -48,9 +48,8 @@ permalink: "/pllug-roadmaps/"
 ### Чи є зібрання присвячені Java, Python, програмуванню мікроконтроллерів... тощо?
 Цього сезону (лютий 2019-червень 2019) наявні лише напрямки зазначені у нас на сторінці PLLUG Roadmaps, а саме:
  * С++\Qt
- * Android (Java)
+ * Android (Kotlin)
  * iOS (Swift)
- * Web фронтенд (JavaScript)
  * C#\.NET
  * QA (Manual)
  
