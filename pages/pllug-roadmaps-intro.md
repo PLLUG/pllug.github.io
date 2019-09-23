@@ -12,7 +12,7 @@ permalink: "/pllug-roadmaps-intro/"
 Навчальні зістрічі PLLUG Roadmaps стартують по наступним напрямкам:
  * QA (Manual)
  * С++\Qt
- * Android (Java)
+ * Android (Kotlin)
  * iOS (Swift)
  * C#\.NET
 
