@@ -9,45 +9,45 @@
 - title: "PLLUG Roadmaps"
   url: "/pllug-roadmaps/"
   side: left
-  dropdown:
-  - title: "QA"
-    url: "/qa-roadmap/"
-    side: left
-    
-  - title: "C++ / Qt"
-    url: "/qt-roadmap/"
-    side: left
+#  dropdown:
+#  - title: "QA"
+#    url: "/qa-roadmap/"
+#    side: left
+#    
+#  - title: "C++ / Qt"
+#    url: "/qt-roadmap/"
+#    side: left
+#
+#  - title: "Web"
+#    url: '/web-roadmap/'
+#    side: left
+#
+#  - title: "IOS"
+#    url: '/ios-roadmap/'
+#    side: left
+#
+#  - title: "Android"
+#    url: '/android-roadmap/'
+#    side: left
+#
+#  - title: "C# / .NET"
+#    url: '/csharp-roadmap/'
+#    side: left
+#
+#  - title: "Hardware"
+#    url: '/hard-pllug/'
+#    side: left
 
-  - title: "Web"
-    url: '/web-roadmap/'
-    side: left
-
-  - title: "IOS"
-    url: '/ios-roadmap/'
-    side: left
-
-  - title: "Android"
-    url: '/android-roadmap/'
-    side: left
-
-  - title: "C# / .NET"
-    url: '/csharp-roadmap/'
-    side: left
-
-  - title: "Hardware"
-    url: '/hard-pllug/'
-    side: left
-
-- title: "Projects"
-  url: "/pllug-projects/"
-  side: left
-
-- title: Blog
-  url: "/blog/"
-  side: left
-  dropdown:
-  - title: "Blog Archive"
-    url: "/blog/archive/"
+#- title: "Projects"
+#  url: "/pllug-projects/"
+#  side: left
+#
+#- title: Blog
+#  url: "/blog/"
+#  side: left
+#  dropdown:
+#  - title: "Blog Archive"
+#    url: "/blog/archive/"
 
 - title: "Search"
   url: "/search/"
