@@ -24,4 +24,4 @@ permalink: "/pllug-roadmaps-intro/"
 Приходь на вступну лекцію, де можна дізнатись детальніше про навчання, напрямки, розклад, та випити каву з печеньками ☺️
 Офіційна сторінка PLLUG community у <a href="https://www.facebook.com/PLLUGcommunity/">Facebook</a>.<br>
 
-Детальніше про PLLUG Roadmaps тут: http://pllug.org.ua/pllug-roadmaps/
+Детальніше про PLLUG Roadmaps тут: [http://pllug.org.ua/pllug-roadmaps/](http://pllug.org.ua/pllug-roadmaps/)
