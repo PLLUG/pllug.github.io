@@ -7,7 +7,8 @@ permalink: "/pllug-roadmaps-intro/"
 
 ## PLLUG Roadmaps 2019-2
 
-**PLLUG Community розпочинає PLLUG Roadmaps 2019-2! **<br>
+
+**PLLUG Community розпочинає PLLUG Roadmaps 2019-2!**
 
 Ми організовуємо безкоштовне навчання з напрямків QA (Manual), С++\Qt, Android (Java), iOS (Swift), C#.NET, а також доповіді та воркшопи з розробки.
 
