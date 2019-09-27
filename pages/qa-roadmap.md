@@ -19,20 +19,20 @@ Cлідкуйте за реєстрацію на заняття та можли�
 
 ## Список тем
 
-|  Дата | Тематика зібрання |
+| № | Тематика зібрання |
 |:----|:----|
-|26.02|Перше зібрання. Знайомство. Introduction to Testing. Project Roles. SDLC |
-|5.03| Requirements analysis. Test/Project documentation.  |
-|12.03|Types of Testing.  Functional/Non-functional. White/Gray/Black-box testing
-|19.03|Test design techniques. |
-|26.03|Revision theory.|
-|2.04|Bug. Bug report. Bug tracking systems.|
-|9.04|Project work (working in groups). |
-|16.04|API testing (Postman). HTTP Methods. HTTP Status Codes. |
-|23.04|WEB application testing (Browser Developer Tools). |
-|7.05|Database. Relational/Non-relational (MySQL/MongoDB). SQL Basics.|
-|14.05|Mobile application testing (Android/iOS).|
-|21.05|Graduation. My first job as QA Engineer. How to start?|
+|1|Перше зібрання. Знайомство. Introduction to Testing. Project Roles. SDLC|
+|2|Requirements analysis. Test/Project documentation.|
+|3|Types of Testing.  Functional/Non-functional. White/Gray/Black-box testing|
+|4|Test design techniques.|
+|5|Revision theory.|
+|6|Bug. Bug report. Bug tracking systems.|
+|7|Project work (working in groups). |
+|8|WEB application testing (Browser Developer Tools).|
+|9|API testing (Postman). HTTP Methods. HTTP Status Codes.|
+|10|Mobile application testing (Android/iOS).|
+|11|Database. Relational/Non-relational (MySQL/MongoDB). SQL Basics.|
+|12|Graduation. My first job as QA Engineer. How to start?|
 
 ## Матеріали 
 
@@ -47,6 +47,7 @@ Cлідкуйте за реєстрацію на заняття та можли�
  * [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/)
  * [SQL W3School](https://www.w3schools.com/sql/)
  * [SQL Tutorials](https://www.guru99.com/sql.html)
+ * [QA Blogs](https://www.rainforestqa.com/blog/2017-12-21-9-essential-blogs-every-qa-team-should-read-in-2018/)
 
 ## Часті Питання (ЧаП)
 
@@ -77,7 +78,7 @@ HTTP, API Testing (Postman), SQL, types of databases, web app testing (using Bro
 Оскільки перша частина буде переважно теоретичною, тому наявність ноутбука необов'язкова. Друга частина курсу передбачатиме формат воркшопів, тому звісно, що присутність ноутбуків та телефонів для тестування буде лише перевагою. Якщо ж у вас не має такої можливості, то зможете спостерігати за розшареним екраном викладача на проекторі. 
 
 ### Скільки часу триватиме навчання?
-PLLUG QA (Manual) Roadmap розрахований на **12** занять, тривалість приблизно **3** місяці, вівторок- **1** раз на тиждень. Заключне заняття відбудеться **14 травня**.
+PLLUG QA (Manual) Roadmap розрахований на **12** занять, тривалість приблизно **3** місяці, вівторок- **1** раз на тиждень. Заключне заняття відбудеться **24 грудня**.
 
 ### Як довго триває одне зібрання?
-Одне зібрання триватиме **1.5** год, з 19:00-20:30.
+Одне зібрання триватиме **1.5** год, з **19:00-20:30**.
