@@ -17,7 +17,11 @@
   - title: "Android"
     url: '/android-roadmap/'
     side: left
-    
+
+  - title: "C# / .NET"
+    url: '/csharp-roadmap/'
+    side: left
+
 #  - title: "C++ / Qt"
 #    url: "/qt-roadmap/"
 #    side: left
@@ -28,10 +32,6 @@
 #
 #  - title: "IOS"
 #    url: '/ios-roadmap/'
-#    side: left
-#
-#  - title: "C# / .NET"
-#    url: '/csharp-roadmap/'
 #    side: left
 #
 #  - title: "Hardware"
