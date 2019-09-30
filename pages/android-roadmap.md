@@ -1,4 +1,3 @@
-
 ---
 title: "Android Roadmap"
 layout: page
