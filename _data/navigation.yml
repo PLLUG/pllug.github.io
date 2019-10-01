@@ -22,9 +22,9 @@
     url: '/csharp-roadmap/'
     side: left
 
-#  - title: "C++ / Qt"
-#    url: "/qt-roadmap/"
-#    side: left
+  - title: "C++ / Qt"
+    url: "/qt-roadmap/"
+    side: left
 #
 #  - title: "Web"
 #    url: '/web-roadmap/'
