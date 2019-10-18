@@ -1,18 +1,18 @@
 ---
-title: "iOS-Swift Roadmap"
+title: "iOS Roadmap"
 layout: page
 sitemap: false
 permalink: "/ios-roadmap/"
 ---
 
-
-# iOS Roadmap
 ## Що таке PLLUG iOS Roadmap?
 Якщо ви давно мріяли приєднатись чи з цікавостю задивляєтесь на світ гарного софту, прогнозованої кількості девайсів та кльових фіч - то ваша дорога на iOS Roadmap. Це може бути вас шанс дізнатись що необхідно вивчити щоб розпочати кар’єру iOS девелопера або знайти відповіді на свої питання поспілкувавшись з лекторами які маю великий практичній досвід у розброці під iOS/tvOS/watchOS.
 
 - - - -
 ## Лектори
+
 Алекс Чаку • iOS Developer at Vakoms [Telegram: Contact @Alex_Chaku](https://t.me/Alex_Chaku)
+
 Рома Слєпко • iOS Developer at Vakoms  [Telegram: Contact @RomanSlyepko](https://t.me/RomanSlyepko)
 
 - - - -
