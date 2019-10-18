@@ -37,7 +37,7 @@ permalink: "/qt-roadmap/"
 
 ## Матеріали та контакти
 
-**Книга з новими навчальними матеріалами: TBD**
+**Книга з новими навчальними матеріалами: [The C++\Qt Roadmap Book](https://pllug.gitlab.io/cppqt/cppqt-roadmap-book/index.html)**
 
 ## Часті Питання (ЧаП)
 
