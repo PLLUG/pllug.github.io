@@ -25,13 +25,13 @@
   - title: "C++ / Qt"
     url: "/qt-roadmap/"
     side: left
+
+  - title: "IOS"
+    url: '/ios-roadmap/'
+    side: left
 #
 #  - title: "Web"
 #    url: '/web-roadmap/'
-#    side: left
-#
-#  - title: "IOS"
-#    url: '/ios-roadmap/'
 #    side: left
 #
 #  - title: "Hardware"
